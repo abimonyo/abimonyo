@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abi2772
+- 👋 Hi, I’m Abdullah Mustafa
 - 👀 I’m interested in Python and Android
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Android Project
