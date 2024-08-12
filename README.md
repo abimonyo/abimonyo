@@ -1,8 +1,6 @@
 
 <h3 align="center">Android and Python Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abimonyo" alt="abimonyo" /></a> </p>
-
 - 📫 How to reach me **abdullahmustafa3607@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
