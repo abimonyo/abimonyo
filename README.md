@@ -1,5 +1,5 @@
 
-<h3 align="center">Android and Python Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 - 📫 How to reach me **abdullahmustafa3607@gmail.com**
 
